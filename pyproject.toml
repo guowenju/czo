@@ -8,7 +8,7 @@ build-backend = "uv_build"
 name = "czo"
 version = "0.3.3"
 authors = [
-    { name = "sfwwslm", email = "sfwwslm@gmail.com" },
+    { name = "Wenju Guo", email = "sfwwslm@gmail.com" },
 ]
 description = "构建测试数据的工具包"
 readme = "README.md"
@@ -28,8 +28,8 @@ dev = [
 ]
 
 [project.urls]
-Homepage = "https://github.com/sfwwslm/czo"
-Issues = "https://github.com/sfwwslm/czo/issues"
+Homepage = "https://github.com/guowenju/czo"
+Issues = "https://github.com/guowenju/czo/issues"
 
 [tool.hatch.metadata.hooks.fancy-pypi-readme]
 content-type = "text/markdown"
